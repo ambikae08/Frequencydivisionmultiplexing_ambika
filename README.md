@@ -7,8 +7,11 @@ To implement Frequency Division Multiplexing (FDM) for six different message sig
 ## APPARATUS REQUIRED
 
 1.Computer System
+
 2.Scilab Software
+
 3.Basic Signal Processing Commands
+
 4.Plotting Tools (Scilab)
 
 ## ALGORITHM
